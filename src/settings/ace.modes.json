@@ -104,7 +104,7 @@
     "mode": "ruby",
     "name": "Ruby"
   },
-  "rc": {
+  "rs": {
     "icon": "icon-rust",
     "mode": "rust",
     "name": "Rust"
